@@ -1,27 +1,46 @@
-# Tic-Tac-Toe
 
-A classic game of tic-tac-toe built with HTML, CSS and JavaScript.
+## Authors
 
-## Getting Started
+- [@octokatherine](https://github.com/GouravBanswal)
 
-Clone the repository to your local machine by running the following command in your terminal: 
 
-```
-git clone https://github.com/username/tic-tac-toe.git
-```
+## 🚀 About Me
+I'm a full stack developer...
 
-Open the `index.html` file in your preferred browser to begin playing.
+Name:
+Gourav Banswal
 
-## Gameplay
+Occupation:
+Full Stack Web Developer
 
-Tic-tac-toe is a game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
+Education: 
+Bachelor's Degree in BCA Computer Science
 
-To start the game, one player will choose the X and the other player will choose the O. Then the players will take turns placing their marks on the grid until either one player has 3 marks in a row or all the squares are filled.
+Experience:
+5 years of experience in developing web applications using HTML, CSS, JavaScript, AJAX, PHP, MySQL, and other web technologies.
 
-## Contributing
+Skills: 
+Proficient in HTML, CSS, JavaScript, PHP, MySQL, and other web technologies.
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Knowledge of web development frameworks such as Node.js, Angular.js, React.js, and Vue.js.
 
-## License
+Experience with version control systems such as Git, SVN, and Mercurial.
 
-This project is licensed under the MIT License
+Knowledge of content management systems like WordPress and Drupal.
+
+Proficient in Responsive Design and Cross-Browser Compatibility.
+
+Strong debugging and troubleshooting skills.
+
+Interests:
+Gaming, traveling, photography, and exploring new technologies.
+## 🛠 Skills
+Javascript, HTML, CSS, React, Redux, MogoDB, Node.js,bootstrap,tailwind...
+
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
+
